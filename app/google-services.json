@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591478331742",
+    "firebase_url": "https://finance-manager-unifor-default-rtdb.firebaseio.com",
+    "project_id": "finance-manager-unifor",
+    "storage_bucket": "finance-manager-unifor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591478331742:android:afb04475c50fff4a9357cf",
+        "android_client_info": {
+          "package_name": "br.unifor.financeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591478331742-ta4jv2m0to544l33epb03557g5d8kq4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgY4FOA2Drkn89oXGMCV9U2MciNOFnzjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591478331742-ta4jv2m0to544l33epb03557g5d8kq4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+    <string name="login_register">Not Registered? Click here!</string>
+</resources>
